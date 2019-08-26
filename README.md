@@ -12,7 +12,7 @@ Keep in mind that for performance reasons, *all* naturally occurring logs and le
 Finally: Multiplayer is supported! However, just like any other data pack or plugin, remember that every player you add will mean more work that Treeless World will have to do to keep the world truly treeless. With too many players, you might find that it's possible to outrun the data pack and catch up to trees before they have time to be deleted.
 
 # Installation
-Just download the latest release as a zip file, open your Minecraft saves folder, and place the zip in the `datapacks` folder of the world you want to use it for. From there, just run `/reload` if your world is already open, or simply close and reopen your world, and trees will start deleting themselves. Fun!
+Just download the [latest release](https://github.com/CaeruCat/treeless-world/releases/latest) as a zip file, open your Minecraft saves folder, and place the zip in the `datapacks` folder of the world you want to use it for. From there, just run `/reload` if your world is already open, or simply close and reopen your world, and trees will start deleting themselves. Fun!
 
 It's also highly recommended that you install OptiFine to ensure that you don't experience significant FPS drops while using this plugin. In my testing, the vanilla 1.14.4 client was *very* bad at handling the visual updates required of an entire forest is being deleted before your eyes.
 
